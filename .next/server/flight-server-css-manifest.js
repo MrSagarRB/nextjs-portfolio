@@ -1,0 +1,13 @@
+self.__RSC_CSS_MANIFEST={
+  "__entry_css_mods__": {
+    "/Users/atomostechnologies/Desktop/coverletter/tailwindcss-and-nextjs-portfolio/app/page": [
+      "/Users/atomostechnologies/Desktop/coverletter/tailwindcss-and-nextjs-portfolio/styles/globals.css"
+    ]
+  },
+  "/Users/atomostechnologies/Desktop/coverletter/tailwindcss-and-nextjs-portfolio/app/page.tsx": [
+    "/Users/atomostechnologies/Desktop/coverletter/tailwindcss-and-nextjs-portfolio/node_modules/@next/font/google/target.css?{\"path\":\"app/page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+  ],
+  "/Users/atomostechnologies/Desktop/coverletter/tailwindcss-and-nextjs-portfolio/app/layout.tsx": [
+    "/Users/atomostechnologies/Desktop/coverletter/tailwindcss-and-nextjs-portfolio/styles/globals.css"
+  ]
+}
